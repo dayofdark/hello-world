@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Like to read and listen to music. New to coding.
+
